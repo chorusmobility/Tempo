@@ -1,7 +1,11 @@
 [package]
-name = "tempo"
+name = "chorus-tempo"
 version = "0.1.0"
 authors = ["Proof-of-Stake Inc, Chorus Mobility"]
+description = "Helps initialize an ad-hoc Tezos network"
+repository = "https://github.com/chorusmobility/Tempo"
+license = "Apache-2.0"
+
 
 [dependencies]
 env_logger = "0.5.13"
